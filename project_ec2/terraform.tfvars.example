@@ -1,0 +1,5 @@
+# terraform.tfvars.example
+eu_north_1_ami_id = "ami-xxxxxxxxxxxx"
+us_east_1_ami_id  = "ami-yyyyyyyyyyyy"
+instance_type1    = "t3.micro"
+instance_type2    = "t3.small"
